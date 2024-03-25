@@ -1,0 +1,20 @@
+
+
+.login-wrapper {
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-wrapper {
+    width: 65%;
+}
+
+.response-print {
+    margin-top: 15px;
+    width: 80%;
+    overflow: hidden;
+    white-space: pre-line;
+    word-wrap: break-word;
+}
